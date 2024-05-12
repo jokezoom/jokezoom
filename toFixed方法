@@ -1,1 +1,16 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>toFixed方法</title>
+</head>
+<body>
+    
+</body>
+<script>
+    //toFixed方法可以让数字保留指定的小数位数
+    const num = 9.891;
+    console.log(num.toFixed(1));
+    console.log(num.toFixed(4))
+</script>
+</html>
